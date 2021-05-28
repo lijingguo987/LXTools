@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LXTools_Example' do
+  pod 'LXTools', :path => '../'
+
+  target 'LXTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
