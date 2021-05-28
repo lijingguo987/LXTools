@@ -1,0 +1,22 @@
+{
+  "name": "LXTools",
+  "version": "0.1.0",
+  "summary": "A short description of LXTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lijingguo987/LXTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lijingguo987": "852470976@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lijingguo987/LXTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LXTools/Classes/**/*"
+}
