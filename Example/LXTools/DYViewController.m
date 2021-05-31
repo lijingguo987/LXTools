@@ -7,6 +7,7 @@
 //
 
 #import "DYViewController.h"
+#import <NormalButton.h>
 
 @interface DYViewController ()
 
@@ -20,7 +21,10 @@
     
     self.view.backgroundColor = [UIColor redColor];
     
-	// Do any additional setup after loading the view, typically from a nib.
+    UIButton *btn = [[[NormalButton alloc] init] normalBtn];
+    btn.frame = CGRectMake(100, 120, 120, 30);
+    [self.view addSubview:btn];
+
 }
 
 - (void)didReceiveMemoryWarning

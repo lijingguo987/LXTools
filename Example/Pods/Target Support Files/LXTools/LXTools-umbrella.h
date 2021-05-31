@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NormalButton.h"
 
 FOUNDATION_EXPORT double LXToolsVersionNumber;
 FOUNDATION_EXPORT const unsigned char LXToolsVersionString[];
