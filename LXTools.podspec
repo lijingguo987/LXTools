@@ -35,9 +35,9 @@ TODO: Add long description of the pod here.
   # s.resource_bundles = {
   #   'LXTools' => ['LXTools/Assets/*.png']
   # }
-  s.subspec 'LXTools' do |st|
-     st.source_files = "LXTools/LXTools/**/*.{h,m}"
-  end
+#  s.subspec 'LXTools' do |st|
+#     st.source_files = "LXTools/**/*.{h,m}"
+#  end
   s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
