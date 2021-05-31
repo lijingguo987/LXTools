@@ -18,7 +18,7 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LXTools/Tools/**/*",
+  "source_files": "LXTools/Classes/**/*",
   "frameworks": [
     "UIKit",
     "MapKit"

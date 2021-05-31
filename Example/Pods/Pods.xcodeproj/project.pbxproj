@@ -7,93 +7,93 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1144A6F8B685DD1F1CCA56199CF72A5E /* LXTools-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CABD6C5162C126EAB23326DC43DB39F7 /* LXTools-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		114FAA78EB3E025CA509D2E1BEC77337 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 596F09AA60D25BE093E07BEEB212078E /* UIKit.framework */; };
-		15FF5CE72CE1CFD9EC2DD083EBAE3225 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5CC57C23F4598D9AA0B2C2C046F8DFD /* Foundation.framework */; };
-		37A2FC2B93024D8B5D6C3EE80EC23A96 /* LXTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E638425780521E0B15A9BB17E910D3F2 /* LXTools-dummy.m */; };
-		3E118D22D4CA4C6DCEE48A57DF4CD559 /* Pods-LXTools_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7000DA370C18E00DCF18546951C7EFE9 /* Pods-LXTools_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		626D02D54476F19D2EA0F1E4E10011C8 /* NormalButton.h in Headers */ = {isa = PBXBuildFile; fileRef = E9B66357F950F3E1D3E3C0FEBA44A604 /* NormalButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		62CC4B8D68F31CC7BB0D3143A4FA1FF6 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 14FEACAE334604E252EA82B95CFCAC56 /* ReplaceMe.m */; };
-		67C0619FF3AF3C48D8C6B5BAFCC0E68A /* NormalButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3F68054B8398531909D96FEAC3A8D /* NormalButton.m */; };
-		72880A006689E448C419BA41674ECC7B /* Pods-LXTools_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 470710DAADFA83EB636C8D54EE56C6C6 /* Pods-LXTools_Tests-dummy.m */; };
-		7929088916E48993B9116A843E3E21DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5CC57C23F4598D9AA0B2C2C046F8DFD /* Foundation.framework */; };
-		8C0B5C10B9D24DD34E8A47DEA9F27CD5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5CC57C23F4598D9AA0B2C2C046F8DFD /* Foundation.framework */; };
-		E29AB54220FA5C0128FE37D78A598FD6 /* Pods-LXTools_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B96FEBA0BCC41CAE09B8B84BF8B197B /* Pods-LXTools_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EB40278EBFF9218582760EC192F0CAE6 /* Pods-LXTools_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E301D993E00B8914996F3FCCF44DC09 /* Pods-LXTools_Example-dummy.m */; };
-		F26B99C028D7A1867CF956AA7DD59BC5 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17F84852D48CCF2A46EB2D9B81B8A826 /* MapKit.framework */; };
+		05CC6D210F6B0CB7FEDA41EF908CFECA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B31A15AEF545E8EBA9DB87FB9D5747D /* UIKit.framework */; };
+		0B811F72890B50233FF3D877D459AC78 /* Pods-LXTools_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B96FEBA0BCC41CAE09B8B84BF8B197B /* Pods-LXTools_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1144A6F8B685DD1F1CCA56199CF72A5E /* LXTools-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 230F5B8FD80689324B3476071FE8481E /* LXTools-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3515A205A93AF42CF82E07EFD8EF8FBC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5463EDB7D7C34B483552ABC921A26BE3 /* MapKit.framework */; };
+		37A2FC2B93024D8B5D6C3EE80EC23A96 /* LXTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 81C5AD59DC1FFA0CC288C70B48B561D9 /* LXTools-dummy.m */; };
+		3C7546DFD9C0599BBFE6F764C7E40648 /* Pods-LXTools_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7000DA370C18E00DCF18546951C7EFE9 /* Pods-LXTools_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		618AC965210D9EC274BE5B0C3D08EDCF /* Pods-LXTools_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E301D993E00B8914996F3FCCF44DC09 /* Pods-LXTools_Example-dummy.m */; };
+		A99CEB5AB65DAE1A837DF718EA39D159 /* NormalButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 637E630C53A64C0C703BACE02FAF8F1E /* NormalButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF6295BC14CB2A34F4C2A15E4A1E0ABC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D890BC086331CFA5853025C62B1CD9 /* Foundation.framework */; };
+		BFECCECEC6CBAA3202D0D26BFB29335B /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2718F3B33926EF6B678BC4C2654C0F39 /* ReplaceMe.m */; };
+		C9530F4CD0C16DDC826E8AC15544C45C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D890BC086331CFA5853025C62B1CD9 /* Foundation.framework */; };
+		CE4B8DA6936AE0BB1E2E9707FD06A4DE /* Pods-LXTools_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 470710DAADFA83EB636C8D54EE56C6C6 /* Pods-LXTools_Tests-dummy.m */; };
+		E008557FD8C6BEE6BC289D37979154D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D890BC086331CFA5853025C62B1CD9 /* Foundation.framework */; };
+		FD297C9D138564FACF9742C2C970E4D7 /* NormalButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B7A34F6D09CC63F506564A8EAE1631D /* NormalButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0D063BA51F52C232AB44552A1011C9C0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 181A4D2F24EDEC5A3B2A6543E33F43D0;
-			remoteInfo = LXTools;
-		};
-		45A4CEA75BFAE1E83E57F67AA9793860 /* PBXContainerItemProxy */ = {
+		37FCF97B4A26CDADE51FE153C6AC844A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = E48607A7BF3BF91AB4054C38D7F83984;
 			remoteInfo = "Pods-LXTools_Example";
 		};
+		AF34669C7AA890AF03BC76BAD1CB5170 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 181A4D2F24EDEC5A3B2A6543E33F43D0;
+			remoteInfo = LXTools;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0EF9D90C62D70DAB0C4C958E6793682C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		14FEACAE334604E252EA82B95CFCAC56 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = LXTools/Tools/ReplaceMe.m; sourceTree = "<group>"; };
+		003071D3DCB4A4FD2CF46B4F0D5D6239 /* LXTools.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LXTools.modulemap; sourceTree = "<group>"; };
 		1638959D7E2C8A67EF917E0457D354BE /* Pods-LXTools_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LXTools_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		17F84852D48CCF2A46EB2D9B81B8A826 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/MapKit.framework; sourceTree = DEVELOPER_DIR; };
-		1ED4F3A6D0ABCCBA420B8A76CB705F41 /* LXTools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LXTools.debug.xcconfig; sourceTree = "<group>"; };
+		230F5B8FD80689324B3476071FE8481E /* LXTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LXTools-umbrella.h"; sourceTree = "<group>"; };
+		2718F3B33926EF6B678BC4C2654C0F39 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = LXTools/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		2F4EA0051E8F1DB157DE053185C9DD9B /* Pods-LXTools_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LXTools_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		343E63705E244A57FF0E1D3095F24F1A /* LXTools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LXTools.release.xcconfig; sourceTree = "<group>"; };
 		470710DAADFA83EB636C8D54EE56C6C6 /* Pods-LXTools_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LXTools_Tests-dummy.m"; sourceTree = "<group>"; };
 		479732154D8DF65993212478BF923453 /* Pods-LXTools_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LXTools_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		4FB3F68054B8398531909D96FEAC3A8D /* NormalButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NormalButton.m; path = LXTools/Tools/NormalButton.m; sourceTree = "<group>"; };
+		4E7D18A3F7A9DF27E100A27CE73F790D /* LXTools-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LXTools-Info.plist"; sourceTree = "<group>"; };
+		52D890BC086331CFA5853025C62B1CD9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		5463EDB7D7C34B483552ABC921A26BE3 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/MapKit.framework; sourceTree = DEVELOPER_DIR; };
+		5610247B3FE58E93947EBB0847A11736 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		58425995CAEB9B103D2E8FF9205A16E2 /* Pods-LXTools_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LXTools_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		596F09AA60D25BE093E07BEEB212078E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		5B31A15AEF545E8EBA9DB87FB9D5747D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		5E7488DCAE9FD3CC11AE0EE594B38933 /* Pods-LXTools_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LXTools_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		5F06FA05D1DF37524C617DED1D9C706F /* LXTools-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LXTools-prefix.pch"; sourceTree = "<group>"; };
 		61776EE81D710E7B0E90A7DBDC0310AA /* Pods-LXTools_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LXTools_Tests-Info.plist"; sourceTree = "<group>"; };
-		61F998F0229C96635D5B972019128709 /* LXTools-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LXTools-Info.plist"; sourceTree = "<group>"; };
+		637E630C53A64C0C703BACE02FAF8F1E /* NormalButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NormalButton.h; path = LXTools/Classes/NormalButton.h; sourceTree = "<group>"; };
 		7000DA370C18E00DCF18546951C7EFE9 /* Pods-LXTools_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LXTools_Tests-umbrella.h"; sourceTree = "<group>"; };
-		71DB4AC0CB74C708615D82C60DC31FD9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		7243D6CB25E234EC478F28D05738955E /* Pods-LXTools_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LXTools_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		75619B19DE2DAA2D0218BA3D0779C1ED /* LXTools-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LXTools-prefix.pch"; sourceTree = "<group>"; };
+		81C5AD59DC1FFA0CC288C70B48B561D9 /* LXTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LXTools-dummy.m"; sourceTree = "<group>"; };
+		81E02783129407D8703827675C7FE7D3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		83A87300999E8C93132ED4BD23C05BD2 /* LXTools.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LXTools.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		861E2B75AC866DFCBB5A2F5014CE8640 /* Pods-LXTools_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LXTools_Example-Info.plist"; sourceTree = "<group>"; };
 		8B96FEBA0BCC41CAE09B8B84BF8B197B /* Pods-LXTools_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LXTools_Example-umbrella.h"; sourceTree = "<group>"; };
 		8C4C5961F548B73B410D7BC7E8BE8665 /* Pods_LXTools_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LXTools_Tests.framework; path = "Pods-LXTools_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E301D993E00B8914996F3FCCF44DC09 /* Pods-LXTools_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LXTools_Example-dummy.m"; sourceTree = "<group>"; };
+		9B7A34F6D09CC63F506564A8EAE1631D /* NormalButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NormalButton.m; path = LXTools/Classes/NormalButton.m; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A1DA15FFBC90A1BFEA36CE5DA9B4008B /* LXTools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LXTools.release.xcconfig; sourceTree = "<group>"; };
 		A482FACA0773F74DCD00880923E52703 /* Pods-LXTools_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LXTools_Example.release.xcconfig"; sourceTree = "<group>"; };
-		AED37537CDF1B6735029AE3A5786863D /* LXTools.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LXTools.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B96E6F296FCC9435AEDB29AFF2FF4E22 /* Pods_LXTools_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LXTools_Example.framework; path = "Pods-LXTools_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C26345EDFAA95E165EFFE4EB59DAB802 /* Pods-LXTools_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LXTools_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		C83DF2275CA26208BCA648829D20750D /* LXTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LXTools.framework; path = LXTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CABD6C5162C126EAB23326DC43DB39F7 /* LXTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LXTools-umbrella.h"; sourceTree = "<group>"; };
 		E4945B4B50A05A4234DC3623F9D31B2D /* Pods-LXTools_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LXTools_Example.modulemap"; sourceTree = "<group>"; };
-		E5CC57C23F4598D9AA0B2C2C046F8DFD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		E638425780521E0B15A9BB17E910D3F2 /* LXTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LXTools-dummy.m"; sourceTree = "<group>"; };
-		E9B66357F950F3E1D3E3C0FEBA44A604 /* NormalButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NormalButton.h; path = LXTools/Tools/NormalButton.h; sourceTree = "<group>"; };
+		ED2AC36EEE949325020855C4B20044CC /* LXTools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LXTools.debug.xcconfig; sourceTree = "<group>"; };
 		F5973755D846F1B1F4B377A7E8ECE2B8 /* Pods-LXTools_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LXTools_Example-frameworks.sh"; sourceTree = "<group>"; };
-		F7D93EDE903CCCC983F17F9F3A9D0D88 /* LXTools.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LXTools.modulemap; sourceTree = "<group>"; };
 		FE54A5CCC478DF637126887F1FBE9FA6 /* Pods-LXTools_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LXTools_Tests.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		60B23D9A3C435F1E55A069D83F290754 /* Frameworks */ = {
+		257F6EE849D539DAF91B9B843E36E199 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7929088916E48993B9116A843E3E21DE /* Foundation.framework in Frameworks */,
+				E008557FD8C6BEE6BC289D37979154D5 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9741E7331ABDA7CD9CC4EFA9A4E8F08D /* Frameworks */ = {
+		D643A85A6236CE65AE3515D15A3F7976 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				15FF5CE72CE1CFD9EC2DD083EBAE3225 /* Foundation.framework in Frameworks */,
+				C9530F4CD0C16DDC826E8AC15544C45C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,9 +101,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C0B5C10B9D24DD34E8A47DEA9F27CD5 /* Foundation.framework in Frameworks */,
-				F26B99C028D7A1867CF956AA7DD59BC5 /* MapKit.framework in Frameworks */,
-				114FAA78EB3E025CA509D2E1BEC77337 /* UIKit.framework in Frameworks */,
+				BF6295BC14CB2A34F4C2A15E4A1E0ABC /* Foundation.framework in Frameworks */,
+				3515A205A93AF42CF82E07EFD8EF8FBC /* MapKit.framework in Frameworks */,
+				05CC6D210F6B0CB7FEDA41EF908CFECA /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -113,9 +113,19 @@
 		03C5C200A0787E300053CFA8F53CA094 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E9A812DC1A24CA7E769691E04C3751BD /* iOS */,
+				AC90E5EBC833FCBC57C4D2FD1986197C /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		13B2871521BAC6A54E7197588520B2C0 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				81E02783129407D8703827675C7FE7D3 /* LICENSE */,
+				83A87300999E8C93132ED4BD23C05BD2 /* LXTools.podspec */,
+				5610247B3FE58E93947EBB0847A11736 /* README.md */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		1F4CFE94970CA9462F45D803695A687C /* Pods-LXTools_Example */ = {
@@ -133,19 +143,6 @@
 			);
 			name = "Pods-LXTools_Example";
 			path = "Target Support Files/Pods-LXTools_Example";
-			sourceTree = "<group>";
-		};
-		345B229C8EEC7407B496222D05018BB4 /* LXTools */ = {
-			isa = PBXGroup;
-			children = (
-				E9B66357F950F3E1D3E3C0FEBA44A604 /* NormalButton.h */,
-				4FB3F68054B8398531909D96FEAC3A8D /* NormalButton.m */,
-				14FEACAE334604E252EA82B95CFCAC56 /* ReplaceMe.m */,
-				C681C096208F54A2E4ABCC82F64BB456 /* Pod */,
-				CEDF9C9F577303FFB3463781A31966B9 /* Support Files */,
-			);
-			name = LXTools;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		43407E19E8C9DB6942628EF6ACE9FDCB /* Products */ = {
@@ -177,19 +174,47 @@
 		68547EACF7A60386CB4D655AFB45F9A5 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				345B229C8EEC7407B496222D05018BB4 /* LXTools */,
+				99CCD205129574A0B157FA7E8C388CE0 /* LXTools */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		C681C096208F54A2E4ABCC82F64BB456 /* Pod */ = {
+		99CCD205129574A0B157FA7E8C388CE0 /* LXTools */ = {
 			isa = PBXGroup;
 			children = (
-				0EF9D90C62D70DAB0C4C958E6793682C /* LICENSE */,
-				AED37537CDF1B6735029AE3A5786863D /* LXTools.podspec */,
-				71DB4AC0CB74C708615D82C60DC31FD9 /* README.md */,
+				637E630C53A64C0C703BACE02FAF8F1E /* NormalButton.h */,
+				9B7A34F6D09CC63F506564A8EAE1631D /* NormalButton.m */,
+				2718F3B33926EF6B678BC4C2654C0F39 /* ReplaceMe.m */,
+				13B2871521BAC6A54E7197588520B2C0 /* Pod */,
+				A0CB21DE4F82BF8BB3ADFD2FE417BFD8 /* Support Files */,
 			);
-			name = Pod;
+			name = LXTools;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		A0CB21DE4F82BF8BB3ADFD2FE417BFD8 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				003071D3DCB4A4FD2CF46B4F0D5D6239 /* LXTools.modulemap */,
+				81C5AD59DC1FFA0CC288C70B48B561D9 /* LXTools-dummy.m */,
+				4E7D18A3F7A9DF27E100A27CE73F790D /* LXTools-Info.plist */,
+				5F06FA05D1DF37524C617DED1D9C706F /* LXTools-prefix.pch */,
+				230F5B8FD80689324B3476071FE8481E /* LXTools-umbrella.h */,
+				ED2AC36EEE949325020855C4B20044CC /* LXTools.debug.xcconfig */,
+				A1DA15FFBC90A1BFEA36CE5DA9B4008B /* LXTools.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/LXTools";
+			sourceTree = "<group>";
+		};
+		AC90E5EBC833FCBC57C4D2FD1986197C /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				52D890BC086331CFA5853025C62B1CD9 /* Foundation.framework */,
+				5463EDB7D7C34B483552ABC921A26BE3 /* MapKit.framework */,
+				5B31A15AEF545E8EBA9DB87FB9D5747D /* UIKit.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		CECA81E0528A2F454B6C5526C92A0704 /* Targets Support Files */ = {
@@ -199,21 +224,6 @@
 				4C6D6E11C6ACB6BB964EB400E53F1E40 /* Pods-LXTools_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		CEDF9C9F577303FFB3463781A31966B9 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F7D93EDE903CCCC983F17F9F3A9D0D88 /* LXTools.modulemap */,
-				E638425780521E0B15A9BB17E910D3F2 /* LXTools-dummy.m */,
-				61F998F0229C96635D5B972019128709 /* LXTools-Info.plist */,
-				75619B19DE2DAA2D0218BA3D0779C1ED /* LXTools-prefix.pch */,
-				CABD6C5162C126EAB23326DC43DB39F7 /* LXTools-umbrella.h */,
-				1ED4F3A6D0ABCCBA420B8A76CB705F41 /* LXTools.debug.xcconfig */,
-				343E63705E244A57FF0E1D3095F24F1A /* LXTools.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/LXTools";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -227,32 +237,14 @@
 			);
 			sourceTree = "<group>";
 		};
-		E9A812DC1A24CA7E769691E04C3751BD /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				E5CC57C23F4598D9AA0B2C2C046F8DFD /* Foundation.framework */,
-				17F84852D48CCF2A46EB2D9B81B8A826 /* MapKit.framework */,
-				596F09AA60D25BE093E07BEEB212078E /* UIKit.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		09D1ABA62D6DADEDA32DF30A44B1E240 /* Headers */ = {
+		48BFBB77BAE3D40B00D475833C5BAFC6 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E29AB54220FA5C0128FE37D78A598FD6 /* Pods-LXTools_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		86B3F88D2281D12BFE4EEFEAF9576A39 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3E118D22D4CA4C6DCEE48A57DF4CD559 /* Pods-LXTools_Tests-umbrella.h in Headers */,
+				0B811F72890B50233FF3D877D459AC78 /* Pods-LXTools_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,7 +253,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1144A6F8B685DD1F1CCA56199CF72A5E /* LXTools-umbrella.h in Headers */,
-				626D02D54476F19D2EA0F1E4E10011C8 /* NormalButton.h in Headers */,
+				A99CEB5AB65DAE1A837DF718EA39D159 /* NormalButton.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF08F4B70B4CB2A2A91EADB5BDF8D359 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3C7546DFD9C0599BBFE6F764C7E40648 /* Pods-LXTools_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,17 +288,17 @@
 		};
 		42AF5F0BF7A08F9AFA818CC3F06FFC16 /* Pods-LXTools_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F3A5F1B10261604DD49D4A20F13E1C8C /* Build configuration list for PBXNativeTarget "Pods-LXTools_Tests" */;
+			buildConfigurationList = 7E2635D6E34C4CDC9C0AABF1C59A56DC /* Build configuration list for PBXNativeTarget "Pods-LXTools_Tests" */;
 			buildPhases = (
-				86B3F88D2281D12BFE4EEFEAF9576A39 /* Headers */,
-				B5CBB39001AD193DB137DAD97D466A93 /* Sources */,
-				60B23D9A3C435F1E55A069D83F290754 /* Frameworks */,
-				5720E85D1D8387BC6CB38DD6DB5D62DD /* Resources */,
+				DF08F4B70B4CB2A2A91EADB5BDF8D359 /* Headers */,
+				ACAC8CB6D15B51140B1B42D2493B7E7F /* Sources */,
+				257F6EE849D539DAF91B9B843E36E199 /* Frameworks */,
+				3F4CB91B1DFEEE7931CDCBE13EE50057 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				51007A571EEF6016F741C908A6D1BCCF /* PBXTargetDependency */,
+				4C0DAB130551920C6538D4BBC83187AC /* PBXTargetDependency */,
 			);
 			name = "Pods-LXTools_Tests";
 			productName = "Pods-LXTools_Tests";
@@ -307,17 +307,17 @@
 		};
 		E48607A7BF3BF91AB4054C38D7F83984 /* Pods-LXTools_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 25BC6ED6D85E5440153CB6A791CE648D /* Build configuration list for PBXNativeTarget "Pods-LXTools_Example" */;
+			buildConfigurationList = 5C58D1025E9232C155789B1209047B62 /* Build configuration list for PBXNativeTarget "Pods-LXTools_Example" */;
 			buildPhases = (
-				09D1ABA62D6DADEDA32DF30A44B1E240 /* Headers */,
-				D3C88CE2B49A3C264CEF480D9BC9CC20 /* Sources */,
-				9741E7331ABDA7CD9CC4EFA9A4E8F08D /* Frameworks */,
-				D20BF8BC10820051209D5C57D27D9A08 /* Resources */,
+				48BFBB77BAE3D40B00D475833C5BAFC6 /* Headers */,
+				7B51E9E62A4CB8090D59D0C4C7035A94 /* Sources */,
+				D643A85A6236CE65AE3515D15A3F7976 /* Frameworks */,
+				97C2D4DCDF55AC52EF5B9EA12D6192CB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				57FBCD25D1A043448C29D632392B3DC5 /* PBXTargetDependency */,
+				34185238F64791A0F29778C5B28DB4DA /* PBXTargetDependency */,
 			);
 			name = "Pods-LXTools_Example";
 			productName = "Pods-LXTools_Example";
@@ -354,7 +354,14 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5720E85D1D8387BC6CB38DD6DB5D62DD /* Resources */ = {
+		3F4CB91B1DFEEE7931CDCBE13EE50057 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97C2D4DCDF55AC52EF5B9EA12D6192CB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -368,29 +375,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D20BF8BC10820051209D5C57D27D9A08 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B5CBB39001AD193DB137DAD97D466A93 /* Sources */ = {
+		7B51E9E62A4CB8090D59D0C4C7035A94 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72880A006689E448C419BA41674ECC7B /* Pods-LXTools_Tests-dummy.m in Sources */,
+				618AC965210D9EC274BE5B0C3D08EDCF /* Pods-LXTools_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D3C88CE2B49A3C264CEF480D9BC9CC20 /* Sources */ = {
+		ACAC8CB6D15B51140B1B42D2493B7E7F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB40278EBFF9218582760EC192F0CAE6 /* Pods-LXTools_Example-dummy.m in Sources */,
+				CE4B8DA6936AE0BB1E2E9707FD06A4DE /* Pods-LXTools_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,34 +399,197 @@
 			buildActionMask = 2147483647;
 			files = (
 				37A2FC2B93024D8B5D6C3EE80EC23A96 /* LXTools-dummy.m in Sources */,
-				67C0619FF3AF3C48D8C6B5BAFCC0E68A /* NormalButton.m in Sources */,
-				62CC4B8D68F31CC7BB0D3143A4FA1FF6 /* ReplaceMe.m in Sources */,
+				FD297C9D138564FACF9742C2C970E4D7 /* NormalButton.m in Sources */,
+				BFECCECEC6CBAA3202D0D26BFB29335B /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		51007A571EEF6016F741C908A6D1BCCF /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-LXTools_Example";
-			target = E48607A7BF3BF91AB4054C38D7F83984 /* Pods-LXTools_Example */;
-			targetProxy = 45A4CEA75BFAE1E83E57F67AA9793860 /* PBXContainerItemProxy */;
-		};
-		57FBCD25D1A043448C29D632392B3DC5 /* PBXTargetDependency */ = {
+		34185238F64791A0F29778C5B28DB4DA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LXTools;
 			target = 181A4D2F24EDEC5A3B2A6543E33F43D0 /* LXTools */;
-			targetProxy = 0D063BA51F52C232AB44552A1011C9C0 /* PBXContainerItemProxy */;
+			targetProxy = AF34669C7AA890AF03BC76BAD1CB5170 /* PBXContainerItemProxy */;
+		};
+		4C0DAB130551920C6538D4BBC83187AC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-LXTools_Example";
+			target = E48607A7BF3BF91AB4054C38D7F83984 /* Pods-LXTools_Example */;
+			targetProxy = 37FCF97B4A26CDADE51FE153C6AC844A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */ = {
+		28D2895A24DB970D56140A65D0AD1664 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A482FACA0773F74DCD00880923E52703 /* Pods-LXTools_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		5519102717B49F0578DF7A2A21AB64DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F4EA0051E8F1DB157DE053185C9DD9B /* Pods-LXTools_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-LXTools_Tests/Pods-LXTools_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LXTools_Tests/Pods-LXTools_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		59888F5877BAB6DF24E0D1D662D46280 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1638959D7E2C8A67EF917E0457D354BE /* Pods-LXTools_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		6BC6E26B9659E6B9C0F9540D16C1C98E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = ED2AC36EEE949325020855C4B20044CC /* LXTools.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LXTools/LXTools-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LXTools/LXTools-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LXTools/LXTools.modulemap";
+				PRODUCT_MODULE_NAME = LXTools;
+				PRODUCT_NAME = LXTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		7915A251D10C393936BBB691C7FBC8AE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A1DA15FFBC90A1BFEA36CE5DA9B4008B /* LXTools.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LXTools/LXTools-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LXTools/LXTools-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LXTools/LXTools.modulemap";
+				PRODUCT_MODULE_NAME = LXTools;
+				PRODUCT_NAME = LXTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8F17DC3A99F99FBAD606CE6963886315 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -449,7 +612,66 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		916E0404255105F480DC4950B7625F7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -488,74 +710,12 @@
 			};
 			name = Debug;
 		};
-		25C280A6E37EE4F4F02AB72864786F8A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1638959D7E2C8A67EF917E0457D354BE /* Pods-LXTools_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		57239E2EB162C65054BE1D87050D51B7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 343E63705E244A57FF0E1D3095F24F1A /* LXTools.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LXTools/LXTools-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LXTools/LXTools-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LXTools/LXTools.modulemap";
-				PRODUCT_MODULE_NAME = LXTools;
-				PRODUCT_NAME = LXTools;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		7A687138BE667E48715D9F3A8AB7024B /* Debug */ = {
+		949C6258A78933619109FB742BD932D5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 479732154D8DF65993212478BF923453 /* Pods-LXTools_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -582,182 +742,33 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		984D80D74FDC0538B5FFD55492AD129D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A482FACA0773F74DCD00880923E52703 /* Pods-LXTools_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LXTools_Example/Pods-LXTools_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		9C715EC297C02C29CB5D4216DB0FEADD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1ED4F3A6D0ABCCBA420B8A76CB705F41 /* LXTools.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LXTools/LXTools-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LXTools/LXTools-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LXTools/LXTools.modulemap";
-				PRODUCT_MODULE_NAME = LXTools;
-				PRODUCT_NAME = LXTools;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 5.0;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		F203E6E7AF3EEDE1EB857D6755384D5A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2F4EA0051E8F1DB157DE053185C9DD9B /* Pods-LXTools_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LXTools_Tests/Pods-LXTools_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LXTools_Tests/Pods-LXTools_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		25BC6ED6D85E5440153CB6A791CE648D /* Build configuration list for PBXNativeTarget "Pods-LXTools_Example" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25C280A6E37EE4F4F02AB72864786F8A /* Debug */,
-				984D80D74FDC0538B5FFD55492AD129D /* Release */,
+				916E0404255105F480DC4950B7625F7A /* Debug */,
+				8F17DC3A99F99FBAD606CE6963886315 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+		5C58D1025E9232C155789B1209047B62 /* Build configuration list for PBXNativeTarget "Pods-LXTools_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */,
-				CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */,
+				59888F5877BAB6DF24E0D1D662D46280 /* Debug */,
+				28D2895A24DB970D56140A65D0AD1664 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7E2635D6E34C4CDC9C0AABF1C59A56DC /* Build configuration list for PBXNativeTarget "Pods-LXTools_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				949C6258A78933619109FB742BD932D5 /* Debug */,
+				5519102717B49F0578DF7A2A21AB64DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -765,17 +776,8 @@
 		C6562B99CCCCCB22FBD819C3632E414C /* Build configuration list for PBXNativeTarget "LXTools" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9C715EC297C02C29CB5D4216DB0FEADD /* Debug */,
-				57239E2EB162C65054BE1D87050D51B7 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F3A5F1B10261604DD49D4A20F13E1C8C /* Build configuration list for PBXNativeTarget "Pods-LXTools_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7A687138BE667E48715D9F3A8AB7024B /* Debug */,
-				F203E6E7AF3EEDE1EB857D6755384D5A /* Release */,
+				6BC6E26B9659E6B9C0F9540D16C1C98E /* Debug */,
+				7915A251D10C393936BBB691C7FBC8AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
