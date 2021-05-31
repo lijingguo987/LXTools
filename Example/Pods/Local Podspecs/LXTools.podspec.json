@@ -23,5 +23,11 @@
   "frameworks": [
     "UIKit",
     "MapKit"
+  ],
+  "subspecs": [
+    {
+      "name": "LXTools",
+      "source_files": "LXTools/LXTools/**/*.{h,m}"
+    }
   ]
 }
