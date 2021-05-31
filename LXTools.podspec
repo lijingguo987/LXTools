@@ -30,8 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'LXTools/Classes/**/*'
-  
+#  s.source_files = 'LXTools/Classes/**/*'
+  s.subspec 'Tools' do |st|
+    st.source_files = "LXTools/Tools/**/*.{h,m}"
+  end
   # s.resource_bundles = {
   #   'LXTools' => ['LXTools/Assets/*.png']
   # }
