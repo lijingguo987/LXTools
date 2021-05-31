@@ -1,5 +1,5 @@
 PODS:
-  - LXTools (0.1.0)
+  - LXTools (0.1.1)
 
 DEPENDENCIES:
   - LXTools (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LXTools: eb1ea982a68e5b2d80fb26a567239182a3116f31
+  LXTools: 00225d33a941779eb6a3d0fe3aff0a259e5054da
 
 PODFILE CHECKSUM: e9de4e36e191cf8ae1ae5193f0bc79a3cb4f463b
 
